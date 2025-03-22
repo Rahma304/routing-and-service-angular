@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/Routing-serviceTask/login": {},
+    "/Routing-serviceTask/products": {},
+    "/Routing-serviceTask/register": {}
+  }
+}
